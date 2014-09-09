@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome" 
+        android:fontFamily="Italic"
+        android:textSize="14sp"/>
+
+    
+
+    <Button
+        android:id="@+id/btnFandango"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"     
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="0dp"   
+        android:text="Fandango"
+        android:background="@color/ivory" />
+    
+    <Button
+        android:id="@+id/btnFindtheaters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnFandango"
+        android:layout_below="@+id/btnFandango"
+        android:layout_marginTop="24dp"    
+        android:text="Theaters" 
+        android:background="@color/ivory"/>
+    
+    <Button
+        android:id="@+id/btnLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnFindtheaters"
+        android:layout_below="@+id/btnFindtheaters"
+        android:layout_marginTop="24dp"
+        android:text="Location" 
+        android:background="@color/ivory"/>
+    
+    
+    
+    <TextView
+        android:id="@+id/cityandzip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnLocation"
+        android:layout_below="@+id/btnLocation"
+        android:layout_marginTop="24dp" />
+    
+    <ProgressBar  
+        android:layout_width="wrap_content"  
+        android:id="@+id/progressBar1"  
+        android:layout_height="wrap_content"></ProgressBar>
+
+    
+
+</RelativeLayout>

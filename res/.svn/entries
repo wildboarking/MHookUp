@@ -1,0 +1,64 @@
+10
+
+dir
+2
+http://jby1985@lingbo.svn.cloudforge.com/mhookup/trunk/MHookUp/res
+http://jby1985@lingbo.svn.cloudforge.com/mhookup
+
+
+
+2014-06-20T16:59:30.733090Z
+2
+jby1985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26dcddd3-9888-4a96-8a55-2f07bedce7e2
+
+values
+dir
+
+values-sw720dp-land
+dir
+
+values-sw600dp
+dir
+
+drawable-hdpi
+dir
+
+drawable-xxhdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+

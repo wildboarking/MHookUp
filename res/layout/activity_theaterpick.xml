@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+       
+	<Button
+        android:id="@+id/btnGettheater"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Get theater"
+        android:layout_alignParentLeft="true"
+        android:textSize="25dp"
+        android:background="@color/ivory"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnGo"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Go"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:background="@color/ivory"
+        android:layout_alignParentRight="true" />
+   
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnGettheater"
+        android:layout_below="@+id/btnGettheater"
+        android:layout_marginTop="10dp" >
+    </ListView>
+   
+
+</RelativeLayout>

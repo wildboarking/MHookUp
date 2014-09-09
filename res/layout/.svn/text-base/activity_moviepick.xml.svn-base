@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+    
+		    
+        
+	<Button
+        android:id="@+id/btnGetmovies"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Getmovies"
+        android:layout_alignParentLeft="true"
+        android:textSize="25dp"
+        android:background="@color/ivory"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnLick"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="HookMe"
+        android:textSize="25dp"
+        android:background="@color/ivory"
+        android:textStyle="bold"
+        android:layout_alignParentRight="true" />
+    
+    <TextView
+        android:id="@+id/theatername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnGetmovies"
+        android:layout_below="@+id/btnGetmovies"
+        android:layout_marginTop="10dp" >
+    </TextView>
+ 
+  
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/theatername"
+        android:layout_below="@+id/theatername"
+        android:layout_marginTop="10dp" >
+    </ListView>
+
+
+ <!--  
+  <ScrollView
+      android:id="@+id/scrollView1"
+      android:layout_width="match_parent"
+      android:layout_height="600dp"
+      android:layout_below="@+id/theatername"
+      android:fadeScrollbars="false" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+    </TextView>
+  
+  </ScrollView>>
+ -->  
+</RelativeLayout>

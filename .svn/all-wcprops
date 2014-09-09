@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/mhookup/!svn/ver/2/trunk/MHookUp
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhookup/!svn/ver/2/trunk/MHookUp/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/mhookup/!svn/ver/1/trunk/MHookUp/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mhookup/!svn/ver/1/trunk/MHookUp/.project
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/mhookup/!svn/ver/1/trunk/MHookUp/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/mhookup/!svn/ver/1/trunk/MHookUp/AndroidManifest.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/activity_main.xml
+END
+activity_moviepick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/activity_moviepick.xml
+END
+popwindowresult.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/popwindowresult.xml
+END
+popwindowaskzip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/popwindowaskzip.xml
+END
+activity_fandango.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/activity_fandango.xml
+END
+theateritem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/theateritem.xml
+END
+movieitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/movieitem.xml
+END
+activity_theaterpick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mhookup/!svn/ver/1/trunk/MHookUp/res/layout/activity_theaterpick.xml
+END
